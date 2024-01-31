@@ -19,6 +19,9 @@
   grid-template-columns: 50% 50%;
   text-decoration: none;
 }
+.boxgrid:hover {
+  transform:translateY(-20px)
+}
 .boxroomleft {
   box-shadow: 0 2px 20px gray ;
   background-color: white;
